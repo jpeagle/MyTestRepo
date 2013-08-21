@@ -1,4 +1,4 @@
 MyTestRepo
 ==========
 
-Just for my own git education
+Just for my own git education!
